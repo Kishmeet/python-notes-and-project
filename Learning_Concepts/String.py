@@ -1,0 +1,25 @@
+
+name=input("enter your name: ")
+len=len(name)
+print(len)
+print(name.find(" "))
+name=name.capitalize()
+print(name)
+name=name.upper()
+print(name)
+name=name.lower()
+print(name)
+result=name.isdigit()#only digits
+print(result)
+a=name.isalpha() #only characters
+print(a)
+phone_number=input("enter your phone number: ")
+c=phone_number.count("9")
+print(c)
+phone_number=phone_number.replace("9","0")
+print(phone_number)
+print(dir(name))
+#syntax <object>.<method>
+string = input("enter a string ")
+string=string.replace(" ", "")
+print(string)

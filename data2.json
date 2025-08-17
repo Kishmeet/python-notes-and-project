@@ -1,0 +1,15 @@
+{
+    "name": "Kishmeet",
+    "Age": 18,
+    "Student": true,
+    "Subjects": [
+        "Math",
+        "Science",
+        "English"
+    ],
+    "Address": {
+        "Street": "Rajpur Road",
+        "State": "UK"
+    },
+    "abc": null
+}
